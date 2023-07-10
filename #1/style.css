@@ -1,46 +1,45 @@
 body{
-    background-color: #141d26;
+  background-color: #141d26;
 }
 
 h3, p, span{
-    color: #d3d7da;
+  color: #d3d7da;
 }
 .circle-crop {
-    width: 75px; /* Sesuaikan dengan ukuran lingkaran yang diinginkan */
-    height: 75px; /* Sesuaikan dengan ukuran lingkaran yang diinginkan */
-    border-radius: 50%;
-    overflow: hidden;
-  }
-  
-  .circle-crop img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: top;
-  }
+  width: 75px; /* Sesuaikan dengan ukuran lingkaran yang diinginkan */
+  height: 75px; /* Sesuaikan dengan ukuran lingkaran yang diinginkan */
+  border-radius: 50%;
+  overflow: hidden;
+}
 
-  .footer {
-    display: inline-flex;
-    align-items: center;
-    /* gap: 2px; */
-    margin-top: 0 !important;
-  }
-  
-  .bi-heart {
-    color: #99a1a9;
-  }
-  
-  .number {
-    /* background-color: #ccc; */
-    padding: 4px 8px;
-  }
-  .btn-transparent {
-    margin-left: 0 !important;
-  }
+.circle-crop img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
 
-  .number{
-    margin-left: 0 !important;
-  }
-  
-  
-  
+.footer {
+  display: inline-flex;
+  align-items: center;
+  /* gap: 2px; */
+  margin-top: 0 !important;
+}
+
+.bi-heart {
+  color: #99a1a9;
+}
+
+.number {
+  /* background-color: #ccc; */
+  padding: 4px 8px;
+}
+.btn-transparent {
+  margin-left: 0 !important;
+}
+
+.number{
+  margin-left: 0 !important;
+}
+
+
