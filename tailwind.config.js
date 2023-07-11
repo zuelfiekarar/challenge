@@ -4,8 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'bg-base': '#9beae0',
-    },
+        'dasar': '#9beae0',
+      },
+      fontFamily: {
+        'inter' : 'Inter'
+      },
     },
   },
   plugins: [],
