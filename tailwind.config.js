@@ -4,11 +4,21 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'dasar': '#9beae0',
+        'dasar': '#294263',
       },
       fontFamily: {
-        'inter' : 'Inter'
+        'inter' : 'Inter',
+        'asap' : 'Asap Condensed'
       },
+      width : {
+        '108' : '27rem'
+      },
+      height : {
+        '108' : '27rem'
+      },
+      margin: {
+        '7.5' : '1.875'
+      }
     },
   },
   plugins: [],
